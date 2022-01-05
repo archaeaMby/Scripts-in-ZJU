@@ -9,4 +9,4 @@
 1. Produce a figure to quantify the deviation of C3 symmetry during MD simulations.
 2. Help one of my classmates to abstract useful data in automatically.
 3. Some PyMoL configurations for m-gate article.
-4. 未完待续
+4. GYX师妹的jupyternotebook & Rmarkdown 配置指南 (少部分内容由我添加, 这部分内容是遇到的一些问题, 以及解决的方法.)
