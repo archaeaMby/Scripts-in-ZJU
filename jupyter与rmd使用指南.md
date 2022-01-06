@@ -36,7 +36,7 @@ user_name passwd
 ## 0. R语言环境的配置
 * 推荐使用conda来进行全部管理（因为方便更改和删除）
 ```
-conda create r4 python=3.9
+conda create -n r4 python=3.9
 conda activate r4
 conda install -c conda-forge r-base=4.1.1
 ```
